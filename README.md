@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on **similar web projects**
 
-- 🤝 I’m looking for help with **Mongo DB**
 
 - 📫 How to reach me **chhyosanglepcha@gmail.com**
 
