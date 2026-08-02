@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chhyosang" alt="chhyosang" /></a> </p>
 
-- 🔭 I’m currently working on **Doko**
-
 - 🌱 I’m currently learning **MERN** and **Software Quality Assurance**
 
 - 👯 I’m looking to collaborate on **similar web projects**
