@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chhyosang Lepcha</h1>
-<h3 align="center">A Front end and Software Quality Assurance</h3>
+<h3 align="center">Front End Developer | Learning Software Quality Assurance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhyosang&label=Profile%20views&color=0e75b6&style=flat" alt="chhyosang" /> </p>
 
@@ -7,10 +7,9 @@
 
 - 🔭 I’m currently working on **Doko**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN** and **Software Quality Assurance**
 
 - 👯 I’m looking to collaborate on **similar web projects**
-
 
 - 📫 How to reach me **chhyosanglepcha@gmail.com**
 
@@ -30,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhyosang&show_icons=true&locale=en" alt="chhyosang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhyosang&" alt="chhyosang" /></p>
+
